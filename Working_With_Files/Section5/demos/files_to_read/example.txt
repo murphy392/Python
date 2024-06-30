@@ -1,2 +1,2 @@
 this is a test...
-this is an extra line
+this is a new line
